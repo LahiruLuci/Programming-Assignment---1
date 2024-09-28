@@ -1,8 +1,5 @@
 # Programming-Assignment---1
 
-Here’s a detailed README file for your project based on the two files you provided: `image_classifier.ipynb` and `streamlit_dashboard.py`. This README can be used for uploading the project to GitHub.
-
----
 
 # Image Classifier with ResNet-50 and Streamlit Dashboard
 
